@@ -1,0 +1,2 @@
+Student[Name: Dang Thanh Nhan, Id: 522H0006, gpa: 3.5]
+Student[Name: Vo Nhat Hao, Id: 522H0090, gpa: 4.0]
